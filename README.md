@@ -41,11 +41,11 @@ To open documentation
 
 ### Client
 
-For running the client you need to install (node)[https://nodejs.org/en/download] 
+For running the client you need to install [node](https://nodejs.org/en/download) 
 
 then go to client/react_client
 
-install (typescript)[https://www.npmjs.com/package/typescript]
+install [typescript](https://www.npmjs.com/package/typescript)
 
 ```
 npm install -D typescript
