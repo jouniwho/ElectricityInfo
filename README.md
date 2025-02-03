@@ -51,7 +51,7 @@ install [typescript](https://www.npmjs.com/package/typescript)
 npm install -D typescript
 ```
 
-Install (recharts)[https://www.npmjs.com/package/recharts]
+Install [recharts](https://www.npmjs.com/package/recharts)
 
 ```
 npm install recharts
