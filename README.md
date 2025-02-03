@@ -72,13 +72,13 @@ Coverage
 coverage run -m pytest tests/
 ```
 
-Coverage in command line
+Coverage report in command line
 
 ```
 coverage report -m
 ```
 
-Coverage in a html format
+Coverage report in a html format
 
 ```
 coverage html
