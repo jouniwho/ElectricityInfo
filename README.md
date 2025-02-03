@@ -28,12 +28,24 @@ pip install -r requirements.txt
 
 Set environment variables 
 
+bash
+
+```
+export POSTGRES_USER=<database user>
+```
+
+```
+export POSTGRES_PASSWORD=<password>
+```
+
+CMD
+
 ```
 set POSTGRES_USER=<database user>
 ```
 
 ```
-POSTGRES_PASSWORD=<password>
+set POSTGRES_PASSWORD=<password>
 ```
 
 Run the server 
