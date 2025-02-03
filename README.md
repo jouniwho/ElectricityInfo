@@ -20,7 +20,6 @@ In CMD
  env/Scripts/activate.bat
 ```
 
-
 For running the server go to app and install requirements
 
 ```
@@ -37,6 +36,30 @@ To open documentation
 
 ```
  http://127.0.0.1:8000/docs
+```
+
+For running tests, go to app and run
+
+```
+pytest tests/
+```
+
+Coverage 
+
+```
+coverage run -m pytest tests/
+```
+
+Coverage in command line
+
+```
+coverage report -m
+```
+
+Coverage in a html format
+
+```
+coverage html
 ```
 
 ### Client
