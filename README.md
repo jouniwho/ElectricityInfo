@@ -26,6 +26,16 @@ For running the server go to app and install requirements
 pip install -r requirements.txt
 ```
 
+Set environment variables 
+
+```
+set POSTGRES_USER=<database user>
+```
+
+```
+POSTGRES_PASSWORD=<password>
+```
+
 Run the server 
 
 ```
