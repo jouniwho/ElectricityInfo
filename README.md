@@ -51,6 +51,12 @@ install [typescript](https://www.npmjs.com/package/typescript)
 npm install -D typescript
 ```
 
+Vite
+
+```
+npm install -D vite
+```
+
 Install [recharts](https://www.npmjs.com/package/recharts)
 
 ```
